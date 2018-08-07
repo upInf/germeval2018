@@ -6,7 +6,7 @@ Bastian Birkeneder, Julia Niemeier, Leon Teubert. 2018. "Offensive Language Dete
 
 More than 750,000 tweets were gathered during a time interval from June to August 2018, to collect a large enough spectrum of current trends and topics. Therefore, tweets of the top 50 German Twitter trends were fetched every 15 minutes, amounting to an average of 11,000 tweets per day. We anonymized usernames by replacing any occurence of a tagged username with *@name*. All hyperlinks in posts were shortened to *http://*. Hence it is recognizable that a link is posted, but the content of the link is not provided. The data set is available under `all_tweets.tsv`.
 
-The file `labeled_tweets` resulted from the shared task of the [GermEval 2018](https://projects.fzai.h-da.de/iggsa/). It contains three columns:
+The file `labeled_tweets.tsv` resulted from the shared task of the [GermEval 2018](https://projects.fzai.h-da.de/iggsa/). It contains three columns:
 
 - tweet
 - offensive label
