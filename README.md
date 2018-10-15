@@ -19,7 +19,7 @@ In order to create a data set of offensive german tweets we manually annotated 4
 **Please cite our paper in any published work that uses any of these resources.**
 
 ```
-@InProceedings{BastianupInfOffensiveLanguage,
+@InProceedings{BirkenederupInfOffensiveLanguage,
   author    = {Bastian Birkeneder and Jelena Mitrovi\'{c} and Julia Niemeier and Teubert Leon and Handschuh Siegfried},
   title     = {{upInf - Offensive Language Detection in German Tweets}},
   booktitle = {Proceedings of the GermEval 2018 Workshop},
